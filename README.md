@@ -12,7 +12,7 @@ This Python script provides functionality to generate and manage EVM (Ethereum V
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/evm-wallet-generator.git
+   git clone https://github.com/Tnodes/evm-wallet-generator.git
    cd evm-wallet-generator
    ```
 
