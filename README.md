@@ -18,7 +18,7 @@ This Python script provides functionality to generate and manage EVM (Ethereum V
 
 2. Install the required dependencies:
    ```
-   pip install eth_account
+   pip install -r requirements.txt
    ```
 
 ## Usage 🚀
